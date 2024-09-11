@@ -48,7 +48,7 @@ Cuando el instalador termine, verás una pantalla con la opción de Launch Visua
 
 Al abrir Visual Studio Code por primera vez, aparecerá una pantalla de bienvenida. Aquí puedes comenzar un nuevo proyecto o abrir un archivo existente.
 
-Si presentas algún problema para instalarlo no dudes consultarlo a mi mail <MAILTO:luis.vasquez.s@usach.cl>. A continuación les dejaré un link donde quedará más claro. 
+Si presentas algún problema para instalarlo no dudes consultarlo a mi mail [luis.vasquez.s@usach.cl](<MAILTO:luis.vasquez.s@usach.cl>). A continuación les dejaré un link donde quedará más claro. 
 
 > https://www.youtube.com/watch?v=X_Z7d04x9-E
 
@@ -88,4 +88,4 @@ Ir a la pestaña lateral de *Extensiones*, buscar *Jupyter* e instalar la extens
 
 Si no aparece el menú de opciones de Jupyter Notebook (+Code, +Markdown, Run All, etc), cerrar VSCode y volver a abrirlo. Este debería reconocer el entorno viritual de python automáticamente y ejecutar Jupyter Notebook.
 
-Si existen dudas sobre esta sección, favor abran un issue y hagan @tvillega en conjunto con su consulta.
+Si existen dudas sobre esta sección, favor abran un issue y hagan [@tvillega](https://github.com/tvillega) en conjunto con su consulta.
